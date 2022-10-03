@@ -1,5 +1,5 @@
 body{
-  background-color: #d6e6b7
+  background-color: #d6dd90
 }
 
 h1{
@@ -13,7 +13,18 @@ h1{
   width: 40%;
   display: inline-block;
 }
-p{
+.juazeiro{
+  width: 30%;
+  display: inline-block;
+}
+.sobral{
+  width: 35%;
+  display: inline-block;
+}
+.tiangua{
+  width: 25%
+ display:inline-block;
+}
 text-align: justify; font-size: 25px; color: #010002
 }
 h1{
