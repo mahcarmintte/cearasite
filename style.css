@@ -1,7 +1,28 @@
 body{
-  background-color: #d6dd90
+  background-color: #a6bc9c
+  }
+  header{
+    background-color: #62997a
+
+  }
+
+.logo{
+  width: 15%;
+  margin-left: 100px;
+
+}
+nav li{
+  display: inline-block;
+  padding-left: 5%;
 }
 
+nav{
+  display: inline;
+  position: relative;
+  bottom: 115px;
+  left: 500px;
+
+}
 h1{
   text-align: center; font-size: 85px; color:#607873
 }
